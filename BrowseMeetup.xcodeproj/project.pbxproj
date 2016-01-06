@@ -24,7 +24,6 @@
 		D0599D951C3B86BD00AC1803 /* Group.m in Sources */ = {isa = PBXBuildFile; fileRef = D0599D941C3B86BD00AC1803 /* Group.m */; };
 		D0599D981C3B894600AC1803 /* MeetupCommunicatorDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0599D971C3B894600AC1803 /* MeetupCommunicatorDelegate.m */; };
 		D0599D9B1C3B89D000AC1803 /* MeetupCommunicator.m in Sources */ = {isa = PBXBuildFile; fileRef = D0599D9A1C3B89D000AC1803 /* MeetupCommunicator.m */; };
-		D0599DA11C3BA4FE00AC1803 /* GroupBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D0599DA01C3BA4FE00AC1803 /* GroupBuilder.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,8 +54,6 @@
 		D0599D971C3B894600AC1803 /* MeetupCommunicatorDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeetupCommunicatorDelegate.m; sourceTree = "<group>"; };
 		D0599D991C3B89D000AC1803 /* MeetupCommunicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeetupCommunicator.h; sourceTree = "<group>"; };
 		D0599D9A1C3B89D000AC1803 /* MeetupCommunicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeetupCommunicator.m; sourceTree = "<group>"; };
-		D0599D9F1C3BA4FE00AC1803 /* GroupBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GroupBuilder.h; path = ../GroupBuilder.h; sourceTree = "<group>"; };
-		D0599DA01C3BA4FE00AC1803 /* GroupBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GroupBuilder.m; path = ../GroupBuilder.m; sourceTree = "<group>"; };
 		F3D8FC48C1DAC49836F6160E /* Pods-BrowseMeetup.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BrowseMeetup.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BrowseMeetup/Pods-BrowseMeetup.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -128,8 +125,6 @@
 				4EFE4B7B17BE879700DD023B /* Supporting Files */,
 				D0599D931C3B86BD00AC1803 /* Group.h */,
 				D0599D941C3B86BD00AC1803 /* Group.m */,
-				D0599D9F1C3BA4FE00AC1803 /* GroupBuilder.h */,
-				D0599DA01C3BA4FE00AC1803 /* GroupBuilder.m */,
 				D0599D961C3B894600AC1803 /* MeetupCommunicatorDelegate.h */,
 				D0599D971C3B894600AC1803 /* MeetupCommunicatorDelegate.m */,
 				D0599D991C3B89D000AC1803 /* MeetupCommunicator.h */,
@@ -275,7 +270,6 @@
 				D0599D951C3B86BD00AC1803 /* Group.m in Sources */,
 				D0599D9B1C3B89D000AC1803 /* MeetupCommunicator.m in Sources */,
 				4EFE4B9117BE879700DD023B /* MasterViewController.m in Sources */,
-				D0599DA11C3BA4FE00AC1803 /* GroupBuilder.m in Sources */,
 				4EFE4BB017BEC48C00DD023B /* DetailCell.m in Sources */,
 				D0599D981C3B894600AC1803 /* MeetupCommunicatorDelegate.m in Sources */,
 			);
